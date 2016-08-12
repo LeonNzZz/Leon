@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>卡卡西</string>
+		<string>鸣人</string>
+		<string>小樱</string>
+		<string>佐助</string>
+	</array>
+	<array>
+		<string>迈特*凯</string>
+		<string>洛克李</string>
+		<string>日向宁次</string>
+		<string>天天</string>
+	</array>
+	<array>
+		<string>袁飞*阿斯玛</string>
+		<string>秋道丁次</string>
+		<string>鹿丸</string>
+		<string>山中井野</string>
+	</array>
+	<array>
+		<string>夕日红</string>
+		<string>油汝志乃</string>
+		<string>犬冢牙</string>
+		<string>日向雏田</string>
+	</array>
+</array>
+</plist>
